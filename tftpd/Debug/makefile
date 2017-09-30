@@ -53,7 +53,7 @@ clean:
 
 post-build:
 	-@echo 'copy executable to images'
-	-cp C:\TE-SOM2.GIT\tftpd\Release/tftpd.elf  C:\TE-SOM2.GIT/Images
+	-cp C:\LocalGitRepo\tftpd\Release/tftpd.elf  C:\TE-SOM2.GIT/Images
 	-@echo ' '
 
 secondary-outputs: $(ELFSIZE)
