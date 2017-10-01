@@ -34,6 +34,8 @@ int datasize = 512;
 /* comment added by second user */
 /********************************/
 
+// hello world
+
 int
 main (int argc, char **argv)
 {
