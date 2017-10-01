@@ -30,6 +30,10 @@ int port = 69;
 unsigned short int ackfreq = 1;
 int datasize = 512;
 
+/********************************/
+/* comment added by second user */
+/********************************/
+
 int
 main (int argc, char **argv)
 {
